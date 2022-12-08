@@ -1,2 +1,2 @@
 # appliedMath-min-of-func
-Scipy lecture notes from Gaël Varoquaux
+Scipy optimization lecture notes from Gaël Varoquaux
